@@ -1,5 +1,4 @@
 {
-    "horario": {
         "lunes": [
             {
                 "idAsignatura": "CSY4111",
@@ -72,5 +71,3 @@
             }
         ]
     }
-}
-      
