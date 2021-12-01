@@ -1,0 +1,76 @@
+{
+    "horario": {
+        "lunes": [
+            {
+                "idAsignatura": "CSY4111",
+                "nombre": "Calidad de Software",
+                "horaInicio": "22:16",
+                "horaTermino": "23:45"
+            },
+            {
+                "idAsignatura": "PGY4121",
+                "nombre": "Programación de aplicaciones móviles",
+                "horaInicio": "19:15",
+                "horaTermino": "21:30"
+            }
+        ],
+    
+    
+        "martes": [
+            {
+                "idAsignatura": "ASY4131",
+                "nombre": "Arquitectura de Software",
+                "horaInicio": "19:15",
+                "horaTermino": "21:30"
+            },
+            {
+                "idAsignatura": "PGY4121",
+                "nombre": "Programación de aplicaciones móviles",
+                "horaInicio": "21:31",
+                "horaTermino": "23:00"
+            }
+        ],
+    
+    
+        "miercoles": [
+            {
+                "idAsignatura": "ASY4131",
+                "nombre": "Arquitectura de Software",
+                "horaInicio": "22:16",
+                "horaTermino": "23:00"
+            }
+        ],
+    
+    
+        "jueves": [
+            {
+                "idAsignatura": "MAT4140",
+                "nombre": "Estadistica descriptiva",
+                "horaInicio": "17:16",
+                "horaTermino": "20:45"
+            },
+            {
+                "idAsignatura": "EAY4470",
+                "nombre": "Ética para el trabajo",
+                "horaInicio": "20:46",
+                "horaTermino": "22:15"
+            },
+            {
+                "idAsignatura": "INI511",
+                "nombre": "Ingles intermedio",
+                "horaInicio": "22:16",
+                "horaTermino": "23:45"
+            }
+        ],
+    
+        "viernes": [
+            {
+                "idAsignatura": "CSY4111",
+                "nombre": "Calidad de Software",
+                "horaInicio": "20:46",
+                "horaTermino": "22:15"
+            }
+        ]
+    }
+}
+      
