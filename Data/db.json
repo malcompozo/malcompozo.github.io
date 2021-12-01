@@ -6,14 +6,16 @@
             "nombre": "Arquitectura de Software",
             "horaInicio": "19:15",
             "horaTermino": "21:30",
-            "estado": "ausente"
+            "Profesor": "Sebastian Saavedra Espinosa"
+            "sede": "Viña del mar"
         },
         {
             "idAsignatura": "PGY4121",
             "nombre":  "Programación de aplicaciones móviles",
             "horaInicio": "22:16",
             "horaTermino": "23:45",
-            "estado": "ausente"
+            "Profesor": "Nancy Bernal Sanchez"
+            "sede": "Viña del mar"
         }
     ]
     
